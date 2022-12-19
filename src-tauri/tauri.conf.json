@@ -33,7 +33,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "xyz.umbani.marula",
       "longDescription": "",
       "macOS": {
         "entitlements": null,

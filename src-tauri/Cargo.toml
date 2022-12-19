@@ -17,6 +17,14 @@ tauri-build = {version = "1.2", features = [] }
 serde_json = "1.0"
 serde = { version = "1.0", features = ["derive"] }
 tauri = {version = "1.2", features = ["shell-open"] }
+bdk = "0.25.0"
+lightning = "0.0.112"
+lightning-invoice = "0.20.0"
+lightning-background-processor = "0.0.112"
+nakamoto = "0.4.0"
+arti = "1.1.0"
+nakamoto-client = "0.4.0"
+nakamoto-net = "0.4.0"
 
 [features]
 # by default Tauri runs in production mode
